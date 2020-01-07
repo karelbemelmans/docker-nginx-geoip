@@ -1,6 +1,6 @@
 *Breaking update 07/01/2020*
 
-On 30/12/2019 [Maxmind changed their license of accessing the free gepip2 databases](https://dev.maxmind.com/geoip/geoip2/geolite2/#), breaking how this Docker image works. I might spend some time getting the new license key method working with this image, but for now this Dockerfile is broken.
+On 30/12/2019 [Maxmind changed their license of accessing the free geoip2 databases](https://dev.maxmind.com/geoip/geoip2/geolite2/#), breaking how this Docker image works. I might spend some time getting the new license key method working with this image, but for now this Dockerfile is broken.
 
 # Docker nginx container with GeoIP database
 
